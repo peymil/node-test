@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peymil/node-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peymil/node-test/issues"
+  },
+  "homepage": "https://github.com/peymil/node-test#readme",
+  "dependencies": {
+    "eslint": "7.9.0",
+    "lodash": "4.0.0",
+    "mongodb": "3.6.5",
+    "prettier": "1.15.3"
+  }
+}
